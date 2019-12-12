@@ -1,4 +1,4 @@
-# Matches Coliseum
+# Coliseum of Matches
 
 A flutter aplication that organize individual matches and tournaments on the style "Losers passes the controller"
 
